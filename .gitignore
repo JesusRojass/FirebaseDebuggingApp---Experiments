@@ -76,3 +76,5 @@ vendor/
 .bundle/
 
 Config.xcconfig
+
+GoogleService-Info.plist
